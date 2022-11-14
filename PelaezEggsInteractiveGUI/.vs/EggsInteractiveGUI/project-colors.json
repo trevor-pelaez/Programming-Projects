@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4dbe2d6-5c27-4f0b-b1cc-7dea5cd581f5": {
+      "ProjectGuid": "d4dbe2d6-5c27-4f0b-b1cc-7dea5cd581f5",
+      "DisplayName": "EggsInteractiveGUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

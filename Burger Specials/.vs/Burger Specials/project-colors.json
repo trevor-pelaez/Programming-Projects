@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6af6e16e-b1fb-43e3-a793-d5a073868f8a": {
+      "ProjectGuid": "6af6e16e-b1fb-43e3-a793-d5a073868f8a",
+      "DisplayName": "Burger Specials",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

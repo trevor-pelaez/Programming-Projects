@@ -1,0 +1,11 @@
+C:\Users\trevo\source\repos\TropicalVacay\TropicalVacay\bin\Debug\TropicalVacay.exe.config
+C:\Users\trevo\source\repos\TropicalVacay\TropicalVacay\bin\Debug\TropicalVacay.exe
+C:\Users\trevo\source\repos\TropicalVacay\TropicalVacay\bin\Debug\TropicalVacay.pdb
+C:\Users\trevo\source\repos\TropicalVacay\TropicalVacay\obj\Debug\TropicalVacay.csproj.AssemblyReference.cache
+C:\Users\trevo\source\repos\TropicalVacay\TropicalVacay\obj\Debug\TropicalVacay.csproj.SuggestedBindingRedirects.cache
+C:\Users\trevo\source\repos\TropicalVacay\TropicalVacay\obj\Debug\TropicalVacay.frmTropicalVacay.resources
+C:\Users\trevo\source\repos\TropicalVacay\TropicalVacay\obj\Debug\TropicalVacay.Properties.Resources.resources
+C:\Users\trevo\source\repos\TropicalVacay\TropicalVacay\obj\Debug\TropicalVacay.csproj.GenerateResource.cache
+C:\Users\trevo\source\repos\TropicalVacay\TropicalVacay\obj\Debug\TropicalVacay.csproj.CoreCompileInputs.cache
+C:\Users\trevo\source\repos\TropicalVacay\TropicalVacay\obj\Debug\TropicalVacay.exe
+C:\Users\trevo\source\repos\TropicalVacay\TropicalVacay\obj\Debug\TropicalVacay.pdb

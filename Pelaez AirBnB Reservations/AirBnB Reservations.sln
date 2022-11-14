@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AirBnB Reservations", "AirBnB Reservations\AirBnB Reservations.vbproj", "{3E939754-951E-4C21-9AF3-77774CFFB1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E939754-951E-4C21-9AF3-77774CFFB1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E939754-951E-4C21-9AF3-77774CFFB1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E939754-951E-4C21-9AF3-77774CFFB1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E939754-951E-4C21-9AF3-77774CFFB1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B767062D-E505-4B2D-A4E9-6984ACF5F051}
+	EndGlobalSection
+EndGlobal
