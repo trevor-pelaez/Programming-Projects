@@ -1,0 +1,8 @@
+REGEDIT4 
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\NVIDIA Corporation\NvContainer\NvTelemetryContainer] 
+"Recovery"=dword:00000001 
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\NvContainer\NvTelemetryContainer] 
+"Recovery"=dword:00000001 
+ 

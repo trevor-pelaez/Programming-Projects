@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<root>
+    <header>ASUS_AURA</header>
+    <version>1.2</version>
+    <funcid>0</funcid>
+    <device key="Group">
+        <isenabled>1</isenabled>
+        <scene key="S0">
+            <state>S0</state>
+            <mode key="101">
+                <color_type>Plain</color_type>
+                <start_end_color_cycle_start>0.000000</start_end_color_cycle_start>
+                <start_end_color_cycle_range>0.750000</start_end_color_cycle_range>
+                <start_end_color_cycle_end>0.750000</start_end_color_cycle_end>
+                <start_to_end_or_end_to_start>1</start_to_end_or_end_to_start>
+                <effect_path_order>
+                    <order key="Mainboard">-1</order>
+                    <order key="Vga">-1</order>
+                    <order key="Keyboard">-1</order>
+                    <order key="Mouse">-1</order>
+                    <order key="GSkillDram">-1</order>
+                    <order key="RogAudioDevices_Microphone">-1</order>
+                    <order key="RogDisplay">-1</order>
+                    <order key="AddressableStrip">-1</order>
+                    <order key="RogAudioDevices_Headset">-1</order>
+                    <order key="ODD">-1</order>
+                    <order key="HDD">-1</order>
+                    <order key="HUE">-1</order>
+                    <order key="NB_Keyboard">-1</order>
+                    <order key="Projecter">-1</order>
+                    <order key="Desktop">-1</order>
+                    <order key="NB_Keyboard_LED">-1</order>
+                    <order key="Terminal">-1</order>
+                    <order key="WaterCooler">-1</order>
+                    <order key="Extension_Card">-1</order>
+                    <order key="MousePad">-1</order>
+                    <order key="Add_RGB_CARD">-1</order>
+                    <order key="RogAudioDevices_HeadphoneStand">-1</order>
+                    <order key="Lamp">-1</order>
+                    <order key="EXT_SSD">-1</order>
+                    <order key="M2_SSD">-1</order>
+                    <order key="NOTEBOOK_CHASSIS">-1</order>
+                    <order key="RogAudioDevices_AudioAdapter">-1</order>
+                    <order key="EXTERNAL_GENERAL">-1</order>
+                    <order key="MidiBox">-1</order>
+                    <order key="5Z_Keyboard">-1</order>
+                    <order key="WallPaper">-1</order>
+                    <order key="MATRIX_Headset">-1</order>
+                    <order key="MATRIX_Motherboard">-1</order>
+                    <order key="MATRIX_Keyboard">-1</order>
+                    <order key="MATRIX_Laptop">-1</order>
+                    <order key="L_Strip">-1</order>
+                    <order key="PHONE">-1</order>
+                    <order key="GAMEPAD">-1</order>
+                    <order key="Xiaomi_device">-1</order>
+                </effect_path_order>
+                <effect_speed>0</effect_speed>
+                <thermal_threshold_one>40</thermal_threshold_one>
+                <thermal_threshold_two>60</thermal_threshold_two>
+                <thermal_value_type>Thermal</thermal_value_type>
+                <music_index>1</music_index>
+                <singlecolor>1</singlecolor>
+            </mode>
+        </scene>
+        <scene key="Non-S0">
+            <state>Non-S0</state>
+        </scene>
+    </device>
+    <addressable_strip_terminal_using>0</addressable_strip_terminal_using>
+    <addressable_strip_card_using>0</addressable_strip_card_using>
+    <device key="HUE">
+        <last_ip/>
+    </device>
+    <exclusivemode>1</exclusivemode>
+</root>
